@@ -2,6 +2,8 @@
 Minimalistic setuptool for the Eastron sdm120 wattmeter.
 Its primary usecase is the setup of the ID and the baudrate.
 
+Note that this tool is more minimalistic than [gianfrdp/SDM120C](https://github.com/gianfrdp/SDM120C) 
+and just supports changing the modbus setup values.
 
 ## PreRequirements
 * python3, python3-minimalmodbus
